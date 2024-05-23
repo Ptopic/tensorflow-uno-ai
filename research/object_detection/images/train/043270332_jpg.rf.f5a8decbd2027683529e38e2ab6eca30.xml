@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>043270332_jpg.rf.f5a8decbd2027683529e38e2ab6eca30.jpg</filename>
+	<path>/Users/petar/Desktop/petar/unoai/train/043270332_jpg.rf.f5a8decbd2027683529e38e2ab6eca30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>115</ymin>
+			<xmax>262</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+</annotation>
